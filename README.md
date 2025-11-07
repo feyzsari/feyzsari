@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a quick look at my GitHub activity and top 
 ## 📊 GitHub Stats
 
 !Feyz's GitHub Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feyzsari)](https://github.com/feyzsari/github-readme-stats)
 ## 🧠 Top Languages
 
 !Top Languages
