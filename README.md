@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm Feyz Sari
 
+Welcome to my GitHub profile! Here's a quick look at my GitHub activity and top languages.
+
+## 📊 GitHub Stats
+
+!Feyz's GitHub Stats
+
+## 🧠 Top Languages
+
+!Top Languages
 <!--
 **feyzsari/feyzsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
