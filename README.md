@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a quick look at my GitHub activity and top 
 
 
 - 🔭 I’m currently working on K8s, Helm, Terraform, AWS, GitHub Actions
-- 🌱 I’m currently learning Network Anamoly Detection
+- 🌱 I’m currently learning creating connectivity between two EKS cluster in different AWS accounts.
 - 👯 I’m looking to collaborate on creating cloud infra
 
 
